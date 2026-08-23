@@ -1,0 +1,70 @@
+
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 70px;
+  font-weight: 400px;
+  line-height: 78px;
+  margin: 0;
+  text-align: center;
+  color: #515076;
+}
+
+.products-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.main-text {
+  color: #515076;
+  line-height: 18px;
+}
+
+.card {
+  background-color: #F7F7FA;
+  box-sizing: border-box;
+  width: 340px;
+  height: 573px;
+  padding: 25px;
+}
+
+.type {
+  color: #515076;
+  text-transform: uppercase;
+  display: flex;
+  color: #A5A3B9;
+  font-size: 12px;
+}
+
+.name {
+  font-size: 20px;
+  color: #515076;
+}
+
+.structure {
+  color: #515076;
+}
+
+
+.amount {
+  color: #515076;
+  font-size: 20px;
+}
+
+.price {
+  font-size: 20px;
+}
+
+.price-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 15px;
+}
