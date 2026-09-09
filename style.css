@@ -1,9 +1,15 @@
 
 
-
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: 13px;
+  background-image: url('images/bg\ 1.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 1400px auto;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
 }
 
 .title {
@@ -17,8 +23,14 @@ body {
 
 .products-list {
   list-style-type: none;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  column-gap: 10px;
+  justify-content: center;
+  width: 1110px;
 }
 
 .main-text {
