@@ -1,4 +1,4 @@
-
+*{box-sizing: border-box;}
 
 body {
   font-family: 'Montserrat', sans-serif;
@@ -40,16 +40,11 @@ body {
 
 .card {
   background-color: #F7F7FA;
-  box-sizing: border-box;
   width: 340px;
-  height: 573px;
   padding: 25px;
 }
 
 .type {
-  color: #515076;
-  text-transform: uppercase;
-  display: flex;
   color: #A5A3B9;
   font-size: 12px;
 }
