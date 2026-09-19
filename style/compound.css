@@ -1,0 +1,20 @@
+
+
+.compound__list{
+  list-style-type: circle;
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 0;
+  margin-top: 7px;
+}
+
+.card__compound {
+  color: #515076;
+  font-size: 13px;
+  margin-top: 15px;
+}
+
+.compound__item {
+  margin-bottom: 7px;
+}
+
