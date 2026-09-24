@@ -54,6 +54,8 @@ catalogTitle.addEventListener('mouseover', function () {
   console.log(catalogTitle.textContent);
 });
 
+// покраска кнопки
+
 const buttonColor = document.querySelector('#colored-button')
 
 buttonColor.addEventListener('click', function () {
